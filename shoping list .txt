@@ -5,3 +5,4 @@ Printer
 Projector
 Computer
 pencil
+second monitor
